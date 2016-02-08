@@ -1,7 +1,7 @@
 name: digital-docket
 favicon: null
-layout_spectrum: 0.8578181627672166
-typography_spectrum: 0.8018893389962614
+layout_spectrum: 0.98115
+typography_spectrum: 0.64376
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.9902800514828414
-  lightness: 0.3339591941330582
-  saturation: 0.6149497423321009
-  rhythmicContrast: 0.9731912263669074
+  brandStrength: 0.6875
+  lightness: 0.75
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
