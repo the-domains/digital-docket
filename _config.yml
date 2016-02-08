@@ -2,6 +2,7 @@ name: digital-docket
 favicon: null
 layout_spectrum: 0.98115
 typography_spectrum: 0.64376
+title: The Digital Docket of Elliot Jarbe
 cta:
   domain: null
   bucket: null
