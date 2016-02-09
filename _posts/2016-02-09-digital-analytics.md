@@ -1,23 +1,26 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://elliotjarbe.myportfolio.com'
-  name: Myportfolio
-  favicon: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQMAAAAlPW0iAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAADUExURUxpcU3H2DoAAAABdFJOUwBA5thmAAAADElEQVQI12NgIA0AAAAwAAHHqoWOAAAAAElFTkSuQmCC'
-  domain: elliotjarbe.myportfolio.com
-keywords: []
-description: ''
-app_links: []
-isBasedOnUrl: 'http://elliotjarbe.myportfolio.com/digital-media-design-'
-title: Digital Analytics
-datePublished: '2016-02-09T13:35:00.600Z'
-dateModified: '2016-02-09T13:27:39.351Z'
-sourcePath: _posts/2016-02-09-digital-analytics.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: 'http://elliotjarbe.myportfolio.com/digital-media-design-'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-02-09T13:36:56.277Z'
+dateModified: '2016-02-09T13:36:41.762Z'
+author: []
+related: []
+app_links: []
+title: Digital Analytics
+sourcePath: _posts/2016-02-09-digital-analytics.md
+published: true
+authors: []
+publisher:
+  name: Myportfolio
+  domain: elliotjarbe.myportfolio.com
+  url: 'http://elliotjarbe.myportfolio.com'
+  favicon: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQMAAAAlPW0iAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAADUExURUxpcU3H2DoAAAABdFJOUwBA5thmAAAADElEQVQI12NgIA0AAAAwAAHHqoWOAAAAAElFTkSuQmCC'
 _context: 'http://schema.org'
 _type: MediaObject
 
